@@ -1,0 +1,64 @@
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb

@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/API/API.csproj",
+        "packagesPath": "/Users/rodrigomorales/.nuget/packages/",
+        "outputPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigomorales/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj"
+              },
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj",
+        "packagesPath": "/Users/rodrigomorales/.nuget/packages/",
+        "outputPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigomorales/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj"
+              },
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj",
+        "packagesPath": "/Users/rodrigomorales/.nuget/packages/",
+        "outputPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigomorales/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/rodrigomorales/.nuget/packages/",
+        "outputPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigomorales/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/Application.csproj"
+              },
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/rodrigomorales/.nuget/packages/",
+        "outputPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigomorales/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {
+              "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj": {
+                "projectPath": "/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

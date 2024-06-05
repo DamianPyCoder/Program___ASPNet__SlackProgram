@@ -1,0 +1,112 @@
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Application.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Application.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Application/obj/Debug/net5.0/Application.pdb

@@ -1,0 +1,120 @@
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.runtimeconfig.dev.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Persistence/obj/Debug/net5.0/Persistence.genruntimeconfig.cache

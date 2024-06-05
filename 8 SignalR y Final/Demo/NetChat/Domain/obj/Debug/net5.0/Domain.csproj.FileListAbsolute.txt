@@ -1,0 +1,72 @@
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/1-Seccion/Final/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/2-Seccion/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/3-Seccion CQRS/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/4 - Seccion React Router/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/5 Seccion NetCore Identity/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/6 Seccion Messages y AutoMapper/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/7 Seccion Private channels/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rodrigomorales/Documents/aspnet_core/demos/NetChat/8 SignalR/Demo/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
